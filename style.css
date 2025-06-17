@@ -1,0 +1,100 @@
+.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: #ffc675 !important;
+    font-family: "Montserrat", sans-serif;
+}
+
+.btn.btn-primary.btn-lg {
+    color: black;
+    background-color: #D89D51FF;
+    border-color: #D89D51FF;
+    border-radius: 0;
+}
+
+.container.py-4 {
+    width: 500px;
+}
+
+body {
+    background-color: #ffedaf;
+    font-family: "Montserrat", sans-serif;
+}
+
+button {
+    display: block;
+    height: 40px;
+    width: 200px;
+    margin-top: 20px;
+
+    background-color: #d89d51;
+    border: none;
+}
+
+button:hover {
+    background-color: #b58644;
+}
+
+button:active {
+    background-color: #9e6515;
+}
+
+.button-container {
+    margin-top: 100px;
+}
+
+.temp-img {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+
+    background-color: #454545;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+
+    background-color: #454545;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons {
+    position: absolute;
+    display: flex;
+    width: 400px;
+    height: 400px;
+    margin-left: 450px;
+    margin-top: 150px;
+
+    color: white;
+}
+
+.icon {
+    border-radius: 100%;
+}
+
+a {
+    border-radius: 100%;
+    margin-left: 10px;
+}
+
+.left-container {
+    position: absolute;
+    width: 500px;
+}
+
+.right-container {
+    width: 500px;
+    position: absolute;
+    margin-top: 175px;
+    margin-left: 600px;
+}
